@@ -31,4 +31,4 @@ resources:
   ChangeLog: http://fisheye2.atlassian.com/changelog/cpan/trunk/OpenGL-RWX
   license: http://dev.perl.org/licenses/
   repository: http://svn.ali.as/cpan/trunk/OpenGL-RWX
-version: 0.01
+version: 0.02
